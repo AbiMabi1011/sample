@@ -1,0 +1,48 @@
+.heading-with-image {
+  display: flex;
+  align-items: center;
+}
+
+.heading-with-image .image-wrapper {
+  margin-left: auto;
+}
+
+.heading-with-image img {
+  max-width: 100%;
+  height: auto;
+}
+.my-div {
+    width:auto;
+    height: 100px;
+    background-color: #b20642;
+    border: 5px solid #eb0000;
+    padding: 20px;
+    text-align: center;
+  }
+  body{
+    background-image: url(02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+  }
+
+  .first
+  {
+    color: rgb(235, 207, 170);
+    padding-top: 20px;
+  }
+  
+  
+  .row{
+    color: azure;
+  }
+  .image-wrapper{
+    padding:70px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(9, 244, 123, 0.9);
+  }
+  p{
+    color: #4c0cec;
+    font-size:50px;
+  }
