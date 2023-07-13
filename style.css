@@ -38,9 +38,9 @@
     color: azure;
   }
   .image-wrapper{
-    padding:70px;
+    padding:100px;
     border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(9, 244, 123, 0.9);
+    box-shadow: 0 1px  rgba(249, 254, 251, 0.9);
   }
   p{
     color: #4c0cec;
